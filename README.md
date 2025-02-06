@@ -1,8 +1,5 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Budget Buddy is a modern, intuitive platform designed to simplify financial management and empower users to take control of their finances. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), this application seamlessly integrates advanced technologies to deliver a robust and user-friendly experience.
+Key features include secure user authentication, a personalized dashboard, and comprehensive tools for logging expenses and incomes. The application also provides insightful visual analytics, enabling users to identify spending patterns and make informed financial decisions. Budget Buddy's streamlined interface ensures that users, whether individuals or families, can effortlessly track and manage their budgets.
+This innovative application exemplifies the potential of modern web technologies to create impactful, scalable, and accessible financial solutions, prioritizing user satisfaction and efficiency. Budget Buddy is your partner in achieving financial clarity and control.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
